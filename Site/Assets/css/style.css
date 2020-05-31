@@ -1,0 +1,132 @@
+body {
+	background: url(../background/bg.jpg ) 0 0 repeat;
+}
+
+@font-face {
+	font-family: Amer;
+	src: url("../fonts/OGT.ttf");
+}
+a {
+	text-decoration: none;
+}
+
+html { 
+   scroll-behavior: smooth; 
+} 
+
+
+.btns {
+	text-align: center;
+	font: 200% bold;
+	font-family: Amer;
+	display: flex;
+	width: 100%;
+	margin: 10px;
+
+}
+
+.btnc {
+	width: 20%;
+	float: left;
+	display: flex;
+	position: relative;
+}
+
+.btn {
+	width: 100%;
+	color: black;
+	border: 1px solid black;
+	background-color: rgba(255,255,255,0.2);
+	border-radius: 15px;
+	padding: 3px;
+}
+
+.btn:hover {
+	background-color: rgba(255,255,255,1);
+}
+
+.left {
+	position: absolute;
+	left: 0 auto;
+}
+
+.mid {
+	margin: 0 auto;
+}
+
+.right {
+	position: absolute;
+	right: 0;
+}
+
+
+.links {
+	color: green;
+	font: 250% sans-serif;
+	border: 3px solid white;
+	margin: 25px auto;
+	padding-left: 10px;
+	background-color: white;
+	border-radius: 15px;
+	text-decoration: none;
+	font-family: Amer;
+}
+
+.text {
+	color: black;
+	font: 120% sans-serif;
+	border: 5px solid white;
+	margin: 20px auto;
+	background-color: white;
+	font-family: Amer;
+}
+
+
+.by {
+	color: black;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	padding: 5px;
+	border: 1px solid white;
+	background: rgba(255, 255, 255, 0.7);
+}
+
+
+.vkpost {
+	font-family: Amer;
+	font-size: 25px;
+}
+
+#pageend {
+	font-size: 30px;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	padding: 10px;
+	display: flex;
+	background-color: rgba(255,255,255,0.4);
+	margin: 10px;
+	font-family: Amer;
+}
+
+#pageend:hover {
+	background-color: rgba(255,255,255,1);
+}
+
+#vidmain {
+	display: flex;
+	position: fixed;
+	right: 5%;
+	top: 10%;
+}
+
+#nolike {
+	display: flex;
+	position: fixed;
+	right: 15.5%;
+	top: 51%;
+	font-family: Amer;
+	font-size: 25px;
+
+}
