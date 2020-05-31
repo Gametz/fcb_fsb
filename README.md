@@ -1,2 +1,2 @@
-# fcb_fsb
-My first site
+# Мой сайт
+https://gametz.github.io/fcb_fsb/
