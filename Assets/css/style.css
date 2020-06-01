@@ -92,12 +92,6 @@ html {
 	background: rgba(255, 255, 255, 0.7);
 }
 
-.vk_groups {
-	display: flex;
-	position: absolute;
-	left: 0 auto;
-}
-
 .vkpost {
 	font-family: Amer;
 	font-size: 25px;
