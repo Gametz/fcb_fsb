@@ -117,7 +117,7 @@ html {
 #vidmain {
 	display: flex;
 	position: absolute;
-	right: 5%;
+	left: 0 auto;
 	top: 10%;
 }
 
