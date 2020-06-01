@@ -125,8 +125,11 @@ html {
 	display: flex;
 	position: absolute;
 	left: 0 auto;
-	top: 50%;
+
 	font-family: Amer;
 	font-size: 25px;
+}
 
+.vid {
+	display: flex;
 }
