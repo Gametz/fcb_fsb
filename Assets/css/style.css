@@ -124,7 +124,7 @@ html {
 
 #vidmain {
 	display: flex;
-	position: absolute;
+	position: relative;
 	left: 0 auto;
 	top: 10%;
 }
