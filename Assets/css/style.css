@@ -95,9 +95,6 @@ html {
 .vkpost {
 	font-family: Amer;
 	font-size: 25px;
-	display: flex;
-	position: absolute;
-	left: 0 auto;
 }
 
 #pageend {
