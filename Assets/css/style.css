@@ -121,14 +121,14 @@ html {
 .vidmain {
 	display: flex;
 	position: absolute;
-	right: 0 auto;
+	right: 100%;
 	top: 10%;
 }
 
 #nolike {
 	display: flex;
 	position: absolute;
-	right: 0 auto;
+	right: 100%;
 	font-family: Amer;
 	font-size: 25px;
 }
