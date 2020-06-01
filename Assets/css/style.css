@@ -124,7 +124,7 @@ html {
 
 #vidmain {
 	display: flex;
-	position: relative;
+	position: absolute;
 	left: 0 auto;
 	top: 10%;
 }
@@ -135,4 +135,9 @@ html {
 	left: 0 auto;
 	font-family: Amer;
 	font-size: 25px;
+}
+
+.vid {
+	display: flex;
+	position: relative;
 }
