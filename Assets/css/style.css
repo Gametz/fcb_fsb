@@ -116,16 +116,16 @@ html {
 
 #vidmain {
 	display: flex;
-	position: fixed;
+	position: absolute;
 	right: 5%;
 	top: 10%;
 }
 
 #nolike {
 	display: flex;
-	position: fixed;
+	position: absolute;
 	right: 15.5%;
-	top: 51%;
+	top: 20%;
 	font-family: Amer;
 	font-size: 25px;
 
