@@ -95,12 +95,15 @@ html {
 .vk_groups {
 	display: flex;
 	position: absolute;
-	right: 0 auto;
+	left: 0 auto;
 }
 
 .vkpost {
 	font-family: Amer;
 	font-size: 25px;
+	display: flex;
+	position: absolute;
+	left: 0 auto;
 }
 
 #pageend {
@@ -136,4 +139,5 @@ html {
 
 .vid {
 	display: flex;
+	flex-direction: row;
 }
