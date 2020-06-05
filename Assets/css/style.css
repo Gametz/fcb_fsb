@@ -121,8 +121,8 @@ html {
 .vidmain {
 	display: flex;
 	position: absolute;
-	right: 20px;
-	top: 10%;
+	right: 20px auto;
+	top: 50px auto;
 }
 
 #nolike {
