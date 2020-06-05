@@ -122,7 +122,7 @@ html {
 	display: flex;
 	position: absolute;
 	right: 20px auto;
-	top: 50px auto;
+	top: 50% auto;
 }
 
 #nolike {
