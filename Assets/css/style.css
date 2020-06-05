@@ -128,7 +128,8 @@ html {
 #nolike {
 	display: flex;
 	position: absolute;
-	right: 100%;
+	right: 20px;
+	top: 50px;
 	font-family: Amer;
 	font-size: 25px;
 }
