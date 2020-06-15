@@ -118,6 +118,10 @@ html {
 }
 
 .next {
+	display: flex;
+	position: absolute;
+	bottom: 20%;
+	right: 50%;
 	font-family: Amer;
 	font-size: 20px;
 }
