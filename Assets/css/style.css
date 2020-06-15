@@ -87,7 +87,7 @@ html {
 	left: 0;
 	bottom: 0;
 	padding: 5px;
-	border: 1px solid white;
+	border: 1px solid rgba(255, 255, 255, 0.7);
 	background: rgba(255, 255, 255, 0.7);
 }
 
@@ -120,6 +120,7 @@ html {
 .vidmain {
 	display: flex;
 	position: absolute;
+	right: 20px;
 	top: 95px;
 }
 
