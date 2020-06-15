@@ -96,22 +96,6 @@ html {
 	font-size: 25px;
 }
 
-#pageend {
-	font-size: 30px;
-	position: fixed;
-	right: 0;
-	bottom: 0;
-	padding: 10px;
-	display: flex;
-	background-color: rgba(255,255,255,0.4);
-	margin: 10px;
-	font-family: Amer;
-}
-
-#pageend:hover {
-	background-color: rgba(255,255,255,1);
-}
-
 .vid {
 	display: flex;
 	position: relative;
