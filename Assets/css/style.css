@@ -121,14 +121,14 @@ html {
 	display: flex;
 	position: absolute;
 	right: 20px;
-	top: 90px;
+	top: 57px;
 }
 
 #nolike {
 	display: flex;
 	position: absolute;
 	right: 20px;
-	top: 60%;
+	top: 94%;
 	font-family: Amer;
 	font-size: 25px;
 }
