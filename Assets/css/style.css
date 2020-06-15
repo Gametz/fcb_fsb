@@ -129,6 +129,7 @@ html {
 .previous {
 	display: flex;
 	position: absolute;
+	font-family: Amer;
 	bottom: 20%;
 	right: 70%;
 }
