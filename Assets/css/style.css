@@ -121,7 +121,14 @@ html {
 	display: flex;
 	position: absolute;
 	bottom: 20%;
-	right: 50%;
+	right: 30%;
 	font-family: Amer;
 	font-size: 30px;
+}
+
+.previous {
+	display: flex;
+	position: absolute;
+	bottom: 20%;
+	right: 70%;
 }
