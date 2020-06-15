@@ -86,7 +86,7 @@ html {
 	position: fixed;
 	left: 0 auto;
 	bottom: 0 auto;
-	padding: 3px;
+	padding: 5px;
 	border: 1px solid white;
 	background: rgba(255, 255, 255, 0.7);
 }
