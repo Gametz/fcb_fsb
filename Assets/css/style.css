@@ -98,7 +98,7 @@ html {
 
 .vid {
 	display: flex;
-	position: relative;
+	position: absolute;
 }
 
 .vidmain {
