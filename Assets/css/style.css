@@ -110,22 +110,6 @@ html {
 	position: absolute;
 }
 
-.vidmain {
-	display: flex;
-	position: absolute;
-	right: 20px;
-	top: 57px;
-}
-
-#nolike {
-	display: flex;
-	position: absolute;
-	right: 20px;
-	top: 94%;
-	font-family: Amer;
-	font-size: 25px;
-}
-
 .next {
 	display: flex;
 	position: absolute;
