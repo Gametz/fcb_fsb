@@ -76,8 +76,6 @@ html {
 	font-size: 70px;
 	display: flex;
 	position: relative;
-	align-items: center;
-	justify-content: center;
 }
 
 .link {
@@ -88,7 +86,6 @@ html {
 .lnk {
 	width: 100%;
 	padding: 3px;
-	text-align: center;
 }
 
 .link:hover {
