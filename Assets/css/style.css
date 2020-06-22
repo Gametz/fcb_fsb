@@ -80,12 +80,16 @@ html {
 
 .link {
 	padding: 35px;
+}
+
+.link:hover a {
+	background-color: rgba(255,255,255,0.5);
+}
+
+.link a {
 	background-color: rgba(255,255,255,0);
 }
 
-.link:hover {
-	background-color: rgba(255,255,255,0.5);
-}
 
 .text {
 	color: black;
