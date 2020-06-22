@@ -24,6 +24,7 @@ html {
 	opacity: 0;
 }
 
+/* Кнопки навигации */
 .btns {
 	text-align: center;
 	font: 200% bold;
@@ -67,8 +68,9 @@ html {
 	position: absolute;
 	right: 0;
 }
+/* Кнопки навигации */
 
-
+/* Ссылки в контактах */
 .links {
 	font-family: Amer;
 	font-size: 70px;
@@ -89,6 +91,7 @@ html {
 .link a{
 	background-color: rgba(255,255,255,0);
 }
+/* Ссылки в контактах */
 
 .text {
 	color: black;
