@@ -70,15 +70,12 @@ html {
 
 
 .links {
-	color: green;
-	font: 250% sans-serif;
-	border: 3px solid white;
-	margin: 25px auto;
-	padding-left: 10px;
-	background-color: white;
-	border-radius: 15px;
-	text-decoration: none;
 	font-family: Amer;
+	font-size: 70px;
+	padding: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .text {
