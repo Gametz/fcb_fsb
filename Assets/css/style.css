@@ -91,6 +91,20 @@ html {
 .link a{
 	background-color: rgba(255,255,255,0);
 }
+
+.l {
+	position: absolute;
+	left: 0 auto;
+}
+
+.m {
+	margin: 0;
+}
+
+.r {
+	position: absolute;
+	right: 0 auto;
+}
 /* Ссылки в контактах */
 
 .text {
