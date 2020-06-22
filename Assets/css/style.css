@@ -106,8 +106,12 @@ html {
 }
 
 .post {
-	margin-right: 50%;
-}
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+.container6 script {
+  margin: 0 }
 
 .vid {
 	display: flex;
