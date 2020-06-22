@@ -76,6 +76,7 @@ html {
 	font-size: 70px;
 	display: flex;
 	position: relative;
+	text-align: center;
 }
 
 .link {
