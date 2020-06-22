@@ -17,7 +17,7 @@ html {
 
 @media all and (max-width: 400px) {
 	.vidmain {
-	width: 400px;
+	width: 100px;
 	height: auto;
 	max-height: 100%;
 	}
