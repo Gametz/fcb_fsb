@@ -56,16 +56,16 @@ html {
 
 .left {
 	position: absolute;
-	left: 0 auto;
+	left: 0;
 }
 
 .mid {
-	margin: 0 auto;
+	margin: 0;
 }
 
 .right {
 	position: absolute;
-	right: 0;
+	right:;
 }
 
 
