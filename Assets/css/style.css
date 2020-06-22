@@ -105,6 +105,10 @@ html {
 	font-size: 25px;
 }
 
+.post {
+	text-align: center;
+}
+
 .vid {
 	display: flex;
 	position: absolute;
