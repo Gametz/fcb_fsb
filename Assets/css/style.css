@@ -81,7 +81,8 @@ html {
 }
 
 .link {
-	padding: 35px;
+	display: flex;
+	width: 15%;
 }
 
 .lnk {
