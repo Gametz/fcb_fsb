@@ -103,13 +103,15 @@ html {
 .vkpost {
 	font-family: Amer;
 	font-size: 25px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
 }
 
 .post {
   display: flex;
   align-items: center;
   justify-content: center;
-  }
 }
 
 .vid {
