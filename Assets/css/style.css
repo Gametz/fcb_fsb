@@ -14,6 +14,15 @@ html {
    scroll-behavior: smooth; 
 } 
 
+.indev {
+	display: flex;
+	position: fixed;
+	right: 50%;
+	top: 50%;
+	font-family: Amer;
+	font-size: 50px;
+}
+
 .vids {
 	opacity: 0;
 }
@@ -136,13 +145,4 @@ html {
 	font-size: 30px;
 	bottom: 2px;
 	right: 70%;
-}
-
-.indev {
-	display: flex;
-	position: fixed;
-	right: 50%;
-	top: 50%;
-	font-family: Amer;
-	font-size: 50px;
 }
