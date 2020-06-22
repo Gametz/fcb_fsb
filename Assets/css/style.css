@@ -84,6 +84,10 @@ html {
 	padding: 35px;
 }
 
+.lnk {
+	width: 100%;
+}
+
 .link:hover a {
 	background-color: rgba(255,255,255,0.5);
 }
