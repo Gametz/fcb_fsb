@@ -14,15 +14,6 @@ html {
    scroll-behavior: smooth; 
 } 
 
-
-@media all and (max-width: 400px) {
-	.vidmain {
-	width: 100px;
-	height: auto;
-	max-height: 100%;
-	}
-}
-
 .indev {
 	text-align: center;
 	font-family: Amer;
