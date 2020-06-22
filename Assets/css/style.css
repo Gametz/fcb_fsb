@@ -78,6 +78,13 @@ html {
 	position: relative;
 	margin-left: 5%;
 }
+.links.a {
+	background-color: rgba(255,255,255,0.1);
+}
+
+.links.a {
+	background-color: rgba(255,255,255,0.5);
+}
 
 .link {
 	display: flex;
