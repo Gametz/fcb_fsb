@@ -75,7 +75,7 @@ html {
 	font-family: Amer;
 	font-size: 70px;
 	display: flex;
-	position: absolute;
+	position: relative;
 	align-items: center;
 	justify-content: center;
 }
