@@ -74,6 +74,7 @@ html {
 	font-size: 70px;
 	padding: 15px;
 	display: flex;
+	position: absolute;
 	align-items: center;
 	justify-content: center;
 }
