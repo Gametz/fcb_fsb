@@ -90,6 +90,13 @@ html {
 	background-color: rgba(255,255,255,0);
 }
 
+.link:hover img {
+	background-color: rgba(255,255,255,0.5);
+}
+
+.link img {
+	background-color: rgba(255,255,255,0);
+}
 
 .text {
 	color: black;
