@@ -72,11 +72,14 @@ html {
 .links {
 	font-family: Amer;
 	font-size: 70px;
-	padding: 15px auto;
 	display: flex;
 	position: absolute;
 	align-items: center;
 	justify-content: center;
+}
+
+.link {
+	padding: 15px;
 }
 
 .text {
