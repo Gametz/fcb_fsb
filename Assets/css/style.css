@@ -15,10 +15,7 @@ html {
 } 
 
 .indev {
-	display: flex;
-	position: absolute;
-	right: 50%;
-	top: 50%;
+	text-align: center;
 	font-family: Amer;
 	font-size: 50px;
 }
