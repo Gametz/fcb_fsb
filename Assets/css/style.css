@@ -143,3 +143,10 @@ html {
 	bottom: 2px;
 	right: 70%;
 }
+
+.old {
+	text-align: center;
+	top: 30%;
+	font-family: Amer;
+	font-size: 50px;
+}
