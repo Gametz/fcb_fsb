@@ -91,6 +91,41 @@ html {
 }
 /* Ссылки в контактах */
 
+/* Слайдер */
+.sl_ctr{
+position:relative;
+width:450px;
+height:300px;
+overflow:hidden;
+}
+.sldr{
+position:relative;
+width:10000px;
+height:300px;
+}
+.sldr img{
+float:left;
+size: 5px;
+}
+.prv_b, .nxt_b{
+position:absolute;
+top:135px;
+display:block;
+width:35px;
+height:35px;
+cursor:pointer;
+}
+.prv_b:hover, .nxt_b:hover{opacity:.6;}
+.prv_b{
+left:10px;
+background:url(images/prv.png) no-repeat;
+}
+.nxt_b{
+right:10px;
+background:url(images/nxt.png) no-repeat;
+}
+/* Слайдер */
+
 .text {
 	color: black;
 	font: 120% sans-serif;
@@ -124,28 +159,6 @@ html {
   justify-content: center;
 }
 
-
-.next {
-	display: flex;
-	position: fixed;
-	background-color: rgba(255, 255, 255, 0.3);
-	padding: 5px;
-	border-radius: 15px;
-	bottom: 5%;
-	right: 30%;
-	font-family: Amer;
-	font-size: 30px;
-	font-weight: bold;
-}
-
-.next a {
-	color: rgba(0, 0, 0, 0.7);
-}
-
-.next:hover {
-	background-color: rgba(255, 255, 255, 0.9);
-}
-
 .previous {
 	display: flex;
 	position: fixed;
@@ -167,15 +180,6 @@ html {
 	background-color: rgba(255, 255, 255, 0.9);
 }
 
-
-.list {
-	font-family: Amer;
-	font-size: 35px;
-	font-weight: bold;
-	display: flex;
-	justify-content: center;
-}
-
 .page {
 	display: flex;
 	margin: 15px;
@@ -184,4 +188,24 @@ html {
 
 .vids {
 	padding-left: 5%;
+}
+
+.main {
+	text-align: center;
+	font-family: Amer;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.razr {
+	width: 300px;
+	height:100px;
+	transform: translate(-50%, -50%);
+	position: absolute; 
+	top: 50%; 
+	left: 50%;
+  	text-align: center;
+	font-family: Amer;
+	font-size: 50px;
+	font-weight: bold;
 }
